@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="temperature_format">%.2f°C</string>
+</resources>
